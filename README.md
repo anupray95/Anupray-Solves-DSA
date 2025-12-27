@@ -20,6 +20,8 @@ Clone the repo and explore the jupyter notebooks to learn and practice.
 
 - Dynamic Programming  
   - [Aditya Verma Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
+- Sorting
+  - [QuickSort](https://www.youtube.com/watch?v=kFeXwkgnQ9U)
 
 
 
